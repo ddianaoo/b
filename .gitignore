@@ -1,0 +1,12 @@
+/shelf/
+/workspace.xml
+/.idea
+/venv
+/.venv
+/.env
+env
+/*/.env
+drfsite/drfsite/__pycache__
+drfsite/drfsite/__pycache__/
+drfsite/women/__pycache__
+drfsite/women/migrations/__pycache__
