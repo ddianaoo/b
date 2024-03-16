@@ -4,7 +4,7 @@ from rest_framework import routers
 
 r = routers.DefaultRouter()
 r.register(r'category', CategoryViewSet)
-r.register(r'women', WomenViewSet, basename='women')
+r.register(r'women', WomenViewSet)
 app_name = 'women'
 
 urlpatterns = [
